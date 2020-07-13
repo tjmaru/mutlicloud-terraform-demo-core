@@ -1,5 +1,4 @@
 ## Requirements
-
 | Name | Version |
 |------|---------|
 | terraform | ~> 0.12.6 |
@@ -8,13 +7,11 @@
 | google | >= 3.21 |
 
 ## Providers
-
 | Name | Version |
 |------|---------|
 | azurerm | >= 2.0 |
 
 ## Inputs
-
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | cloud\_location | Multi-Cloud: Mapping of cloud regions for multi-cloud. | `map` | n/a | yes |
